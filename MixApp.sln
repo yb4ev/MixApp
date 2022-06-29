@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixApp", "MixApp\MixApp.csproj", "{6FB4D5AB-8EE5-4C41-80C5-AA0E3F877238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB4D5AB-8EE5-4C41-80C5-AA0E3F877238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB4D5AB-8EE5-4C41-80C5-AA0E3F877238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB4D5AB-8EE5-4C41-80C5-AA0E3F877238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB4D5AB-8EE5-4C41-80C5-AA0E3F877238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1828C-E88D-4EFD-BB55-0820FCD22CCC}
+	EndGlobalSection
+EndGlobal
